@@ -1,7 +1,7 @@
 # ZCSegmentControl
 
 
-[新图片](images/01.gif)
+(images/01.gif)
 
 
 使用说明
