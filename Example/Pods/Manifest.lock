@@ -1,0 +1,16 @@
+PODS:
+  - ZCSegmentControl (0.1.0)
+
+DEPENDENCIES:
+  - ZCSegmentControl (from `../`)
+
+EXTERNAL SOURCES:
+  ZCSegmentControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZCSegmentControl: a0333821a314f5683217bd8376a8e7a31ebf7e2f
+
+PODFILE CHECKSUM: a55032d89b8022ae3030b239ec8e85ce23d9e331
+
+COCOAPODS: 1.5.0

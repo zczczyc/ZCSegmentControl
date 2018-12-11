@@ -1,0 +1,15 @@
+//
+//  ZCAppDelegate.h
+//  ZCSegmentControl
+//
+//  Created by 朱冲冲 on 12/11/2018.
+//  Copyright (c) 2018 朱冲冲. All rights reserved.
+//
+
+@import UIKit;
+
+@interface ZCAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end

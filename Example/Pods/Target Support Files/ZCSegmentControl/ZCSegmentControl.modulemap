@@ -1,0 +1,6 @@
+framework module ZCSegmentControl {
+  umbrella header "ZCSegmentControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
